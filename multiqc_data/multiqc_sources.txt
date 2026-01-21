@@ -1,0 +1,2 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR8668755_1M_subsample	/mnt/c/Users/awss/Desktop/DIYtranscriptomics/SRR8668755_1M_subsample_fastqc.zip
